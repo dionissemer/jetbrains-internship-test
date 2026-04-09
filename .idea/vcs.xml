@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/ide-tests/cache/projects/unpacked/gradle-simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/ide-tests/cache/projects/unpacked/intellij-ide-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/ide-tests/cache/projects/unpacked/public-apis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/ide-tests/cache/projects/unpacked/simple-java-maven-app" vcs="Git" />
+  </component>
+</project>
